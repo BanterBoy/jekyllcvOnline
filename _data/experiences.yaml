@@ -1,6 +1,6 @@
 - title: Infrastructure Engineer
   period: Sep 2022 - Present
-  company: Rail Delivery Group Ltd · Contract
+  company: Rail Delivery Group Ltd
   location: 200 Aldersgate Street, London
   description: >
     - Recruited to the Infrastructure team to assist in the transition to new premises and general system management/maintenance.
@@ -8,12 +8,12 @@
 
 - title: Infrastructure Engineer & Owner
   period: Sep 2022 - Present
-  company: Leigh IT Services Limited · Self-employed
+  company: Leigh IT Services Limited
   location: Southend-on-Sea, Essex
 
 - title: Senior Infrastructure Engineer
-  period: Jul 2021 - Sep 2022 · 1 yr 3 mos
-  company: Carpetright · Full-time
+  period: Jul 2021 - Sep 2022
+  company: Carpetright
   location: Purfleet, Essex
   description: >
     - Responsible for managing and delivering project implementations.
@@ -28,28 +28,28 @@
     Azure, Office 365, Active Directory, Exchange, Mimecast, SQL Server, Networking, Firewall (Palo Alto, FortiGate), PowerShell, Automation
 
 - title: Infrastructure Engineer
-  period: Nov 2020 - Feb 2021 · 4 mos
-  company: Ventrica · Contract
+  period: Nov 2020 - Feb 2021
+  company: Ventrica
   location: Southend-on-Sea, Essex
   description: >
     - I was hired to assist the IT Director and the rest of the IT Team in achieving PCI Compliance to provide additional services to their customers. Whilst not an exhaustive list of tasks; this involved several tasks including upgrading Juniper firewalls (both hardware and firmware), patch management, updating and decommissioning new and old Windows Servers, implementing best practices for AD management. Security hardening; Active Directory, Windows Firewalls, Access Control shares. Updating and Securing Microsoft Exchange Server 2013. Requirements for the role were met and PCI Compliance was achieved by the target date of December 31st.
 
 - title: PCI Infrastructure Engineer
-  period: Aug 2019 - Feb 2020 · 7 mos
-  company: Ventrica · Contract
+  period: Aug 2019 - Feb 2020
+  company: Ventrica
   location: Southend-on-Sea, Essex
   description: >
     - I was hired to assist the IT Team in achieving PCI Compliance in order to provide additional services to their customers. Whilst not an exhaustive list of tasks; this involved several tasks including upgrading Juniper firewalls (both hardware and firmware), patch management, updating and decommissioning new and old Windows Servers, implementing best practices for AD management. Security hardening; Active Directory, Windows Firewalls, Access Control shares. Updating and Securing Microsoft Exchange Server 2013.
 
 - title: 3rd Line Service Desk Technician
-  period: Feb 2019 - Jul 2019 · 6 mos
+  period: Feb 2019 - Jul 2019
   company: Six Degrees Group
   location: St. Katherine Docks, London
   description: >
     - Resolve complex technical incidents logged by clients in an efficient, professional, and consistent manner, this requires extremely thorough analytical skills drawing from my own personal experience. Triage multiple high complexity tickets for demanding clients in a variety of bespoke infrastructures. Diagnose but also make infrastructure design changes where required. Manage the change process and provide technical vetting for change controls to senior management prior to sending it to the client for approval. Document my work and provide regular technical briefings to senior management. Provide consistent communications to the end user and key customer stakeholders. Provide training and mentoring to 1st and 2nd line staff. Function as incident manager during Priority 1 and Major Incidents. Function as back up to the Service Desk team in monitoring and acting upon all channels of communication into the Service Desk; ensure a timely response to all communication in line with customer expectation and Service Desk SLAs and targets. Provide consultation to Account Managers and Pre-Sales for capacity planning and road-mapping.
 
-- title: Senior IT Administrator - Full-time
-  period: Jul 2018 - Dec 2018 · 6 mos
+- title: Senior IT Administrator
+  period: Jul 2018 - Dec 2018
   company: Solopress
   location: Southend-on-Sea, Essex
   description: >
@@ -57,14 +57,14 @@
     - During this time, I also spent my personal development time creating a PowerShell Module to automate future configuration of the Cisco Meraki equipment - https://github.com/BanterBoy/CiscoMeraki
 
 - title: 3rd Line Service Desk Technician
-  period: Jan 2018 - Jul 2018 · 7 mos
+  period: Jan 2018 - Jul 2018
   company: Six Degrees Group
   location: St. Katherine Docks, London
   description: >
     - Resolve complex technical incidents logged by clients in an efficient, professional, and consistent manner, this requires extremely thorough analytical skills drawing from my own personal experience. Triage multiple high complexity tickets for demanding clients in a variety of bespoke infrastructures. Diagnose but also make infrastructure design changes where required. Manage the change process and provide technical vetting for change controls to senior management prior to sending it to the client for approval. Document my work and provide regular technical briefings to senior management. Provide consistent communications to the end user and key customer stakeholders. Provide training and mentoring to 1st and 2nd line staff. Function as incident manager during Priority 1 and Major Incidents. Function as back up to the Service Desk team in monitoring and acting upon all channels of communication into the Service Desk; ensure a timely response to all communication in line with customer expectation and Service Desk SLAs and targets. Provide consultation to Account Managers and Pre-Sales for capacity planning and road-mapping.
 
 - title: Infrastructure Engineer
-  period: Feb 2017 - Dec 2017 · 11 mos
+  period: Feb 2017 - Dec 2017
   company: FSI Cloud
   location: Upminster, London
   description: >
@@ -75,7 +75,7 @@
     Project Work: Planning and documenting a new solution to manage and maintain the company and client infrastructure more securely by enhancing the current design and implementing a number of key security changes. This design is to incorporate "Automation" into the structure, implementing the use of PowerShell allowing for structured deployment and management of both client and company domains. Adding automation to many of the current daily tasks in order to free up our engineers and speed up the deployment of new and existing solutions and also to ensure standardised build deployment and assurances towards compliance.As a member of the hosted infrastructure team, I provided 3rd line IT support to both internal and external customers by diagnosing and resolving issues with managed services in our private cloud environment. I also provided assistance to the internal IT team to support the smooth running of the business as a whole by troubleshooting both client and server machines, networking and telephony, and IT-related business practices. I take a proactive approach to reviewing and maintaining processes and solutions to ensure ISO9001 and ISO27001 conformance and general IT security best practice using resources such as regular internal and external vulnerability assessments, analysing SIEM data, and keeping abreast of developments in the threat landscape where relevant to our business. Role Summary: Supporting IaaS as part of key business systems for numerous international companies, this role requires the ability to react quickly to changes in state, and it is crucial to be proactive in maintaining system up-time; I followed a strict change control process, ensuring to make any adjustments with minimal or no downtime. Day-to-day I also analysed network performance to identify opportunities for optimisation and strengthening our security posture.
 
 - title: Network Architect | Webmaster | PCI Compliance Specialist
-  period: Mar 2008 - Sep 2016 · 8 yrs 7 mos
+  period: Mar 2008 - Sep 2016
   company: Insure and Go Insurance Services Limited
   location: Southend on Sea & Bristol
   description: >
@@ -89,14 +89,14 @@
     1st point of contact on merchant PCI validation requirements and 3rd party compliance
 
 - title: IT Support Analyst
-  period: Feb 2008 - Mar 2008 · 2 mos
+  period: Feb 2008 - Mar 2008
   company: Witan Jardine
   location: 13 Southampton Place, London
   description: >
     - I was responsible for ensuring that all the office users had access to all the network resources (Servers, Databases, Firewalls, VOIP etc) and to provide fixes and upgrades within the required internal SLA to ensure a minimum amount of downtime.
 
 - title: Infrastructure Manager
-  period: Aug 2004 - Jan 2008 · 3 yrs 6 mos
+  period: Aug 2004 - Jan 2008
   company: IRIS Software Group
   location: New St, London
   description: >
@@ -110,7 +110,7 @@
     - Used applications and technologies including Microsoft Office, Microsoft Windows, Microsoft Exchange, IIS, TCP / IP, WINS, DNS, DHCP, Firewalls / Routers, VPN and remote access solutions, Microsoft SQL Server, Crystal Reports, Veritas Backup Exec and Dreamweaver MX
 
 - title: 2nd Line Technical Support Analyst
-  period: Aug 2003 - Aug 2004 · 1 yr 1 mos
+  period: Aug 2003 - Aug 2004
   company: IRIS Software Group
   location: New St, London
   description: >
@@ -119,7 +119,7 @@
     - Maintained the support intranet for FAQs and fixes
 
 - title: Service Support Technician
-  period: Nov 2000 - Feb 2003 · 2 yrs 4 mos
+  period: Nov 2000 - Feb 2003
   company: Callserve Communications
   location: 6-7 Harbour Exchange Square, London
   description: >
@@ -129,7 +129,7 @@
     - Extensively tested updated software in test and live environments on all Windows operating systems before going live to customers producing testing scripts for new versions of the software for future testing
 
 - title: Computer Support Technician
-  period: Aug 1994 - Nov 2000 · 6 yrs 4 mos
+  period: Aug 1994 - Nov 2000
   company: Seetec
   location: Main Road, Hockley, Essex
   description: >
