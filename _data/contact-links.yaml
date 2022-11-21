@@ -1,11 +1,11 @@
-- title: hello@blackode.in
-  link: 'mailto: hello@blackode.in'
+- title: me@lukeleigh.com
+  link: "mailto: me@lukeleigh.com"
   icon-class: "fa fa-envelope"
 
-- title: "09494507287"
-  link: 'phone: 09494507287'
+- title: "07977 532524"
+  link: "phone: 07977532524"
   icon-class: "fa fa-phone"
 
-- title: blackode.in
-  link: 'https://blackode.in'
+- title: lukeleigh.com
+  link: "https://lukeleigh.com"
   icon-class: "fa fa-globe"

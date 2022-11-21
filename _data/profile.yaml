@@ -1,31 +1,18 @@
-name: Malreddy Ankanna
-title: Full Stack Developer
-firstName: ""
-lastName: ""
-email: hello@blackode.in
+name: Luke Leigh
+title: Infrastructure/Automation Engineer
+firstName: "Luke"
+lastName: "Leigh"
+email: me@lukeleigh.com
 phone: 09494507287
-website: https://blackode.in
+website: https://lukeleigh.com
 description: > # This means ignore new line until
-    Professional Full Stack Software Developer with 3+ years experience. Recent works include the Industrial
-    Automation Software development- SCADA for Solar Plants. Knowledgeable in Linux environment and interested in developing Shell Automation scripts
-    for Continuous Integration (CI) and Development. Experienced in Server API development with SQL and NoSQL databases.
-    I'm also a Graphic Designer in Adobe Technologies and Technical Writer at Medium and love to make screencasts
-    on Programming Tips and share to the world (Youtube). I love coding in Vim Editor.
+  A dependable, diligent and analytical Infrastructure Engineer with expertise and in-depth knowledge of IT infrastructure and resolving support issues. Possesses a great aptitude for moving a project forward while remaining mindful of and exceeding client expectations.
+  Works well under pressure while keeping vital communication channels open
+  Resourceful Infrastructure Engineer quick to familiarise with latest technology and industry developments
+  Displays innovative and creative solutions to arising issues and problems
 
 social:
-  accounts: facebook,behance,youtube,twitter,medium,linkedin,github # add new account here and link in following
+  accounts: twitter,linkedin,github # add new account here and link in following (facebook,behance,medium,youtube)
   linkedin: https://linkedin.com/in/blackode
   twitter: https://twitter.com/tweetblackode
-  facebook: https://facebook.com/ankanna
-  youtube: https://youtube.com/c/blackodee
-  medium: https://medium.com/blackode
   github: https://github.com/blackode
-  behance: https://behance.net/blackode
-
-
-
-
-
-
-
-
