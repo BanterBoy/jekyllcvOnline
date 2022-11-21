@@ -1,12 +1,10 @@
-- title: Full Stack Developer
-  period: 2017 - Present
-  company: Free Lancer
-  location: Ananthapur
+- title: Infrastructure Engineer · Contract
+  period: Sep 2022 - Present
+  company: Rail Delivery Group Ltd
+  location: 2nd Floor, 200 Aldersgate Street, London EC1A 4HD
   description: >
-    Free Lancing on Backend Software Development, Web Development, Performance Engineering and Graphic Designing.
-    Experienced in Continuous Development and responsible for Code Performance and Code Refactoring. Played a Core Elixir Developer
-    role in CoAP Protocol Development - an Elixir open source library for IOT communication among the devices connected in Constrained
-    Networks.
+    - Recruited to the Infrastructure team to assist in the transition to new premises and general system management/maintenance.
+    - Azure, Office 365, Active Directory, Exchange, Mimecast, SQL Server, Cisco Networking & Security appliances, PowerShell, Adaxes, Varonis DatAdvantage, Bullwall
 
 - title: Elixir Library Developer
   period: 2016 (October- Dec)
@@ -16,7 +14,6 @@
     I played a role as Elixir Developer for developing CoAP- Constrained Application Protocol. It is a Specialized web transfer protocol for
     communicating across the devices connected in constrained networks. It is an open source library. It is an Elixir server/client Core Library.
     IOT ( Internet Of Things )- Communication Module.
-
 
 - title: Core Elixir Developer/ FreeLancer
   period: 2016 (August - October)
@@ -60,5 +57,3 @@
     - name: Kritus
       link: "https://github.com/Ahamtech/Kritus"
       desc: BaseCamp Client - Project Management Tool
-
-
