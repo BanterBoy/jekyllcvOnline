@@ -12,7 +12,11 @@ description: > # This means ignore new line until
   Displays innovative and creative solutions to arising issues and problems
 
 social:
-  accounts: twitter,linkedin,github # add new account here and link in following (facebook,behance,medium,youtube)
+  accounts: twitter,linkedin,github # add new account here and link in following
   linkedin: https://linkedin.com/in/lukeleigh
   twitter: https://twitter.com/luke_leighs
   github: https://github.com/BanterBoy
+  facebook:
+  youtube:
+  medium:
+  behance:
