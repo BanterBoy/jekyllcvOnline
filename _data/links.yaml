@@ -1,17 +1,14 @@
 - title: Experiences
-  link: '#experiences'
+  link: "#experiences"
 
-- title: Education
-  link: '#education'
+# - title: Education
+#   link: '#education'
 
 - title: Skills
-  link: '#skills'
+  link: "#skills"
 
 - title: Portfolio
-  link: '#portfolio'
+  link: "#portfolio"
 
 - title: Contact
-  link: '#contact'
-
-
-
+  link: "#contact"
