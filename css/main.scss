@@ -158,7 +158,7 @@ p {
     a.hire-link {
         @extend %nav-link;
         &:after {
-            content: " :) ";
+            content: "";
             font-weight: bold;
         }
 
