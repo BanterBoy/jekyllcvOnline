@@ -3,7 +3,7 @@ title: Infrastructure/Automation Engineer
 firstName: "Luke"
 lastName: "Leigh"
 email: me@lukeleigh.com
-phone: 09494507287
+phone: 07977532524
 website: https://lukeleigh.com
 description: > # This means ignore new line until
   A dependable, diligent and analytical Infrastructure Engineer with expertise and in-depth knowledge of IT infrastructure and resolving support issues. Possesses a great aptitude for moving a project forward while remaining mindful of and exceeding client expectations.
@@ -13,6 +13,6 @@ description: > # This means ignore new line until
 
 social:
   accounts: twitter,linkedin,github # add new account here and link in following (facebook,behance,medium,youtube)
-  linkedin: https://linkedin.com/in/blackode
-  twitter: https://twitter.com/tweetblackode
-  github: https://github.com/blackode
+  linkedin: https://linkedin.com/in/lukeleigh
+  twitter: https://twitter.com/luke_leighs
+  github: https://github.com/BanterBoy
