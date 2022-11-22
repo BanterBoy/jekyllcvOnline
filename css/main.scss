@@ -1,3 +1,9 @@
+---
+---
+
+// author: Ankanna
+//email: bugboy@gmx.com
+
 //Importing _sass files
 @import "generators";
 @import "variables";
@@ -30,6 +36,8 @@
     font-weight: bold;
     color: #676869;
 }
+
+
 
 .social-media-bar {
     padding-top: 10px;
@@ -194,6 +202,8 @@ $loader-size: 30vh;
 
 // End Loading Bar Animation
 
+
+
 // Navigation Bar Section
 
 #navigation-bar {
@@ -223,6 +233,8 @@ $loader-size: 30vh;
 }
 
 // End Navigation Bar Section
+
+
 
 // Contacts Bar Section
 
@@ -385,7 +397,7 @@ $loader-size: 30vh;
     font-weight: 500;
     margin-bottom: 15px;
     font-size: 16px;
-    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+    -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
 }
 
 .misc-skills {
