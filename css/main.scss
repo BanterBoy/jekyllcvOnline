@@ -13,7 +13,7 @@
 
 %boxshadow {
 
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 14px 0 rgba(0, 0, 0, 0.19);
 }
 
 %nav-link {
@@ -40,7 +40,7 @@
 
 
 .social-media-bar {
-    padding-top: 10px;
+    padding-top: 5px;
     padding-left: 70px;
     padding-bottom: 30px;
 }
@@ -133,7 +133,7 @@ p {
 
 #header {
     min-height: 300px;
-    padding-bottom: 20px;
+    padding-bottom: 14px;
 }
 
 #hire {
@@ -148,10 +148,10 @@ p {
     width: 140px;
     height: 50px;
     text-align: center;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 16px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 14px 0 rgba(0, 0, 0, 0.19);
 
     &:hover {
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 150, 0.5), 0 6px 16px 0 rgba(0, 0, 150, 0.5);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 150, 0.5), 0 6px 14px 0 rgba(0, 0, 150, 0.5);
 
     }
 
@@ -271,17 +271,17 @@ $loader-size: 30vh;
 .profile-title {
 
     color: lighten(dodgerblue, 30%);
-    padding-top: 20px;
-    font-size: (150%);
+    padding-top: 14px;
+    font-size: (100%);
     padding-bottom: 5px;
 }
 
 #profile-description p {
 
     color: $profile-description-color;
-    padding-top: 20px;
-    padding-bottom: 50px;
-    font-size: large;
+    padding-top: 5px;
+    padding-bottom: 25px;
+    font-size: medium;
     text-align-last: center;
 }
 
@@ -291,11 +291,11 @@ $loader-size: 30vh;
     max-height: 150px;
     max-width: 150px;
     align-content: center;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 14px 0 rgba(0, 0, 0, 0.5);
 
     &:hover {
         border: ($profile-img-border-size + 5) solid $primary-color;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 150, 0.5), 0 6px 20px 0 rgba(0, 0, 150, 0.5);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 150, 0.5), 0 6px 14px 0 rgba(0, 0, 150, 0.5);
 
     }
 }
@@ -343,7 +343,7 @@ $loader-size: 30vh;
 
 .experience-description {
     text-align-last: left;
-    padding-top: 10px;
+    padding-top: 5px;
     padding-left: 0px;
     padding-right: 0px;
     font-size: smaller;
@@ -357,7 +357,7 @@ $loader-size: 30vh;
 .mobile-apps {
 
     padding-left: 100px;
-    padding-top: 10px;
+    padding-top: 5px;
 
 }
 
@@ -372,7 +372,7 @@ $loader-size: 30vh;
     }
 
     .top-skills {
-        padding-top: 50px;
+        padding-top: 25px;
     }
 
     .skill-desc {
@@ -384,7 +384,7 @@ $loader-size: 30vh;
     }
 
     .other-skills {
-        padding-top: 100px;
+        padding-top: 50px;
     }
 
 }
@@ -396,7 +396,7 @@ $loader-size: 30vh;
     border: 1px solid #f5f5f5;
     font-weight: 500;
     margin-bottom: 15px;
-    font-size: 16px;
+    font-size: 14px;
     -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
 }
 
@@ -442,7 +442,7 @@ $loader-size: 30vh;
         .portfolioContainer {
             border: 1px solid #eee;
             border-radius: 3px;
-            padding-top: 20px;
+            padding-top: 14px;
         }
         img {
             width: 300px;
@@ -479,7 +479,7 @@ $loader-size: 30vh;
         }
 
         #portfolio-item {
-            padding: 20px;
+            padding: 14px;
         }
     }
 
@@ -495,7 +495,7 @@ $loader-size: 30vh;
 
     }
     .course, .university {
-        padding-top: 10px;
+        padding-top: 5px;
     }
 
 }
@@ -519,20 +519,20 @@ $loader-size: 30vh;
     $alpha-color: rgba(17, 123, 255, 0.18);
     .description {
         padding: 10px;
-        font-size: 16px;
+        font-size: 14px;
         line-height: 1.5;
         font-family: Roboto, sans-serif;
     }
 
     .thanks {
-        padding-top: 10px;
-        font-size: 20px;
+        padding-top: 5px;
+        font-size: 14px;
         color: dodgerblue;
         font-weight: bold;
     }
     .info {
-        padding-top: 10px;
-        font-size: 20px;
+        padding-top: 5px;
+        font-size: 14px;
     }
 
     .profile-pic {
@@ -605,7 +605,7 @@ $loader-size: 30vh;
     }
 
     li {
-        font-size: 16px;
+        font-size: 14px;
         color: $footer-color;
         i.fa{
             color: $footer-link-hover-color;
@@ -669,7 +669,7 @@ $loader-size: 30vh;
         font-size: larger;
         padding-left: 5px;
         padding-right: 5px;
-        padding-top: 10px;
+        padding-top: 5px;
 
     }
 
@@ -677,7 +677,7 @@ $loader-size: 30vh;
         font-size: larger;
         padding-left: 5px;
         padding-right: 5px;
-        padding-top: 10px;
+        padding-top: 5px;
 
     }
 
@@ -736,7 +736,7 @@ $loader-size: 30vh;
             .nav-link {
 
                 padding: 0px;
-                font-size: 16px;
+                font-size: 14px;
 
             }
         }
@@ -760,7 +760,7 @@ $loader-size: 30vh;
 
                 text-align: center;
                 padding-left: 0px;
-                padding-right: 16px;
+                padding-right: 14px;
 
             }
 
@@ -814,7 +814,7 @@ $loader-size: 30vh;
 
         .other-skills {
 
-            padding-top: 16px;
+            padding-top: 14px;
 
             .misc-skills {
 
@@ -842,8 +842,8 @@ $loader-size: 30vh;
         }
 
         .info {
-            padding-top: 10px;
-            font-size: 19px;
+            padding-top: 5px;
+            font-size: 14px;
             text-align: center !important;
 
         }
