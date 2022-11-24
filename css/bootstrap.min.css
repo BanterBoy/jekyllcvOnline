@@ -351,7 +351,7 @@ html {
 }
 
 body {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Consolas", sans-serif;
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
@@ -739,7 +739,8 @@ code,
 kbd,
 pre,
 samp {
-    font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
+    /* font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace */
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Consolas", sans-serif;
 }
 
 code {
