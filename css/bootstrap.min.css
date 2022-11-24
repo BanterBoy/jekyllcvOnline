@@ -7,7 +7,7 @@
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 html {
     font-family: sans-serif;
-    line-height: 1.15;
+    line-height: 1;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
 }
@@ -26,7 +26,7 @@ section {
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 1em;
     margin: .67em 0
 }
 
@@ -352,9 +352,9 @@ html {
 
 body {
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Consolas", sans-serif;
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: 400;
-    line-height: 1.5;
+    line-height: 1;
     color: #292b2c;
     background-color: #fff
 }
@@ -535,7 +535,7 @@ legend {
     width: 100%;
     padding: 0;
     margin-bottom: .5rem;
-    font-size: 1.5rem;
+    font-size: 1rem;
     line-height: inherit
 }
 
@@ -572,59 +572,59 @@ h6 {
 
 .h1,
 h1 {
-    font-size: 1.5rem
+    font-size: 1rem
 }
 
 .h2,
 h2 {
-    font-size: 1.5rem
+    font-size: 1rem
 }
 
 .h3,
 h3 {
-    font-size: 1.5rem
+    font-size: 1rem
 }
 
 .h4,
 h4 {
-    font-size: 1.5rem
+    font-size: 1rem
 }
 
 .h5,
 h5 {
-    font-size: 1.5rem
+    font-size: 1rem
 }
 
 .h6,
 h6 {
-    font-size: 1.5rem
+    font-size: 1rem
 }
 
 .lead {
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: 300
 }
 
 .display-1 {
-    font-size: 6rem;
+    font-size: 3rem;
     font-weight: 300;
     line-height: 1.1
 }
 
 .display-2 {
-    font-size: 5.5rem;
+    font-size: 2.5rem;
     font-weight: 300;
     line-height: 1.1
 }
 
 .display-3 {
-    font-size: 4.5rem;
+    font-size: 1.75rem;
     font-weight: 300;
     line-height: 1.1
 }
 
 .display-4 {
-    font-size: 3.5rem;
+    font-size: 1.15rem;
     font-weight: 300;
     line-height: 1.1
 }
@@ -674,7 +674,7 @@ mark {
 .blockquote {
     padding: .5rem 1rem;
     margin-bottom: 1rem;
-    font-size: 1.25rem;
+    font-size: 1rem;
     border-left: .25rem solid #eceeef
 }
 
@@ -6094,7 +6094,7 @@ button.list-group-item-danger.active {
 
 .close {
     float: right;
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: 700;
     line-height: 1;
     color: #000;
