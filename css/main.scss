@@ -28,11 +28,11 @@
 %box-shadow-container {
     @extend %boxshadow;
     background-color: #fff;
-    padding: 50px
+    padding: 25px
 }
 
 %section-heading {
-    padding-bottom: 50px;
+    padding-bottom: 25px;
     font-weight: bold;
     color: #676869;
 }
@@ -41,8 +41,8 @@
 
 .social-media-bar {
     padding-top: 5px;
-    padding-left: 70px;
-    padding-bottom: 30px;
+    padding-left: 35px;
+    padding-bottom: 15px;
 }
 
 .heading-font {
@@ -137,7 +137,7 @@ p {
 }
 
 #hire {
-    padding-right: 50px;
+    padding-right: 30px;
     padding-top: 30px;
 }
 
@@ -384,7 +384,7 @@ $loader-size: 30vh;
     }
 
     .other-skills {
-        padding-top: 50px;
+        padding-top: 25px;
     }
 
 }
@@ -684,7 +684,7 @@ $loader-size: 30vh;
     .fa-info {
         color: white;
         text-align: center;
-        font-size: 18pt;
+        font-size: 15pt;
     }
 
     .social-media-bar {
