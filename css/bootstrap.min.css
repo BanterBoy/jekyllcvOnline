@@ -352,7 +352,7 @@ html {
 
 body {
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Consolas", sans-serif;
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-weight: 400;
     line-height: 1.5;
     color: #292b2c;
@@ -572,17 +572,17 @@ h6 {
 
 .h1,
 h1 {
-    font-size: 2.5rem
+    font-size: 1.5rem
 }
 
 .h2,
 h2 {
-    font-size: 2rem
+    font-size: 1.5rem
 }
 
 .h3,
 h3 {
-    font-size: 1.75rem
+    font-size: 1.5rem
 }
 
 .h4,
@@ -592,16 +592,16 @@ h4 {
 
 .h5,
 h5 {
-    font-size: 1.25rem
+    font-size: 1.5rem
 }
 
 .h6,
 h6 {
-    font-size: 1rem
+    font-size: 1.5rem
 }
 
 .lead {
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     font-weight: 300
 }
 
