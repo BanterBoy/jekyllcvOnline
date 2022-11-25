@@ -5,7 +5,7 @@
 //email: bugboy@gmx.com
 
 //Importing _sass files
-@import "generators";
+{@import "generators";
 @import "variables";
 @import "themes";
 
@@ -397,7 +397,8 @@ $loader-size: 30vh;
     font-weight: 500;
     margin-bottom: 15px;
     font-size: 14px;
-    -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+    -webkit-box-shadow: inset 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+    box-shadow: inset 0 1px 4px 0 rgba(0, 0, 0, 0.14);
 }
 
 .misc-skills {
@@ -867,3 +868,4 @@ $loader-size: 30vh;
 }
 
 // End Media Section
+}
